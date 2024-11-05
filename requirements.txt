@@ -1,2 +1,4 @@
-openai-whisper
+whisper
+numpy
 moviepy
+Pillow
